@@ -2,7 +2,7 @@
 
 Console.Write("введите первое число: ");
 int numberA = int.Parse(Console.ReadLine()!);
-Console.Write("введите первое число: ");
+Console.Write("введите второе число: ");
 int numberB = int.Parse(Console.ReadLine()!);
 
 if(numberA > numberB)
